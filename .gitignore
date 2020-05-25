@@ -1,3 +1,5 @@
+# Folders
+.vscode/
 # Byte-compiled / optimized / DLL files
 *.jpg
 __pycache__/
